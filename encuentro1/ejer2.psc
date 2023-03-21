@@ -8,7 +8,7 @@ Algoritmo encuentro1_ejer2
 	
 	
 	escribir nombre ", es quien mas colaborò en mi equipo, propiciando la cooperaciòn y el fluir del conocimiento. Por estas razones, es que vamos a RECONOCERLO dàndole un PULSO."
-. Por estas razones, es que vamos a RECONOCERLO dandole un PULSO."
+ Por estas razones, es que vamos a RECONOCERLO dandole un PULSO."
 
 	
 FinAlgoritmo
