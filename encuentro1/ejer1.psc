@@ -8,6 +8,7 @@ Algoritmo encuentro1_ejer1
 	leer actividad
 	
 	escribir actividad "? que interesante"
-	
+
+
 	
 FinAlgoritmo
