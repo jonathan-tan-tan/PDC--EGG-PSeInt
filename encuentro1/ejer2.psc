@@ -2,10 +2,10 @@ Algoritmo encuentro1_ejer2
 	
 	definir nombre Como Caracter
 	
-	escribir "de tus compaÒeros, quien crees que ha aportado mas al equipo el dia de hoy?"
+	escribir "de tus compa√±eros, quien crees que ha aportado mas al equipo el dia de hoy?"
 	leer nombre
 	
 	
-	escribir nombre ", es quien m·s colaborÛ en mi equipo, propiciando la cooperaciÛn y el fluir del conocimiento. Por estas razones, es que vamos a RECONOCERLO d·ndole un PULSO."
+	escribir nombre ", es quien mas colabor√≤ en mi equipo, propiciando la cooperaci√≤n y el fluir del conocimiento. Por estas razones, es que vamos a RECONOCERLO d√†ndole un PULSO."
 	
 FinAlgoritmo
