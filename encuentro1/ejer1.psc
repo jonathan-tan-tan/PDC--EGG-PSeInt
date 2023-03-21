@@ -7,7 +7,8 @@ Algoritmo encuentro1_ejer1
 	escribir "dime " nombre ", cual es tu actividad favorita?"
 	leer actividad
 	
-	escribir actividad "? que interesante."
-	
+	escribir actividad "? que interesante"
+
+
 	
 FinAlgoritmo
